@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- [x] Pro Wrestling
+- [x] Mixed Martial Arts
+- [x] Football
+- [x] Critical Role

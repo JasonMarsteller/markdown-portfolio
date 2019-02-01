@@ -1,0 +1,4 @@
+- [x] Pro Wrestling
+- [x] Mixed Martial Arts
+- [x] Football
+- [x] Critical Role
